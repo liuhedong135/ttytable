@@ -25,29 +25,29 @@ c.add_row(['Bob', '29', 'American'])
 c.echo()
 
 ```
-[use](https://github.com/liuhedong135/ttytables/blob/master/photo/use.png)
+![use](https://github.com/liuhedong135/ttytables/blob/master/photo/use.png)
 <br>
 
 # 3. Themes
 
 - **`c.style()`**
-[style](https://github.com/liuhedong135/ttytables/blob/master/photo/style.png)
+![style](https://github.com/liuhedong135/ttytables/blob/master/photo/style.png)
 - **`c.style1()`**
-[style1](https://github.com/liuhedong135/ttytables/blob/master/photo/style1.png)
+![style1](https://github.com/liuhedong135/ttytables/blob/master/photo/style1.png)
 - **`c.style2()`**
-[style2](https://github.com/liuhedong135/ttytables/blob/master/photo/style2.png)
+![style2](https://github.com/liuhedong135/ttytables/blob/master/photo/style2.png)
 - **`c.style3()`**
-[style3](https://github.com/liuhedong135/ttytables/blob/master/photo/style3.png)
+![style3](https://github.com/liuhedong135/ttytables/blob/master/photo/style3.png)
 - **`c.style4()`**
-[style4](https://github.com/liuhedong135/ttytables/blob/master/photo/style4.png)
+![style4](https://github.com/liuhedong135/ttytables/blob/master/photo/style4.png)
 - **`c.style5()`**
-[style5](https://github.com/liuhedong135/ttytables/blob/master/photo/style5.png)
+![style5](https://github.com/liuhedong135/ttytables/blob/master/photo/style5.png)
 - **`c.style6()`**
 [style6](https://github.com/liuhedong135/ttytables/blob/master/photo/style6.png)
 - **`c.style7()`**
-[style7](https://github.com/liuhedong135/ttytables/blob/master/photo/style7.png)
+![style7](https://github.com/liuhedong135/ttytables/blob/master/photo/style7.png)
 - **`c.style8()`**
-[style8](https://github.com/liuhedong135/ttytables/blob/master/photo/style8.png)
+![style8](https://github.com/liuhedong135/ttytables/blob/master/photo/style8.png)
 <br>
 
 ## 3.1 Custom
@@ -67,7 +67,7 @@ c.across = 'x'       # -
 c.echo()
 ```
 It looks like this.
-[custom](https://github.com/liuhedong135/ttytables/blob/master/photo/custom.png)
+![custom](https://github.com/liuhedong135/ttytables/blob/master/photo/custom.png)
 
 <br>
 
