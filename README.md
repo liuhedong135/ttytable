@@ -43,7 +43,7 @@ c.echo()
 - **`c.style5()`**
 ![style5](https://github.com/liuhedong135/ttytables/blob/master/photo/style5.png)
 - **`c.style6()`**
-[style6](https://github.com/liuhedong135/ttytables/blob/master/photo/style6.png)
+![style6](https://github.com/liuhedong135/ttytables/blob/master/photo/style6.png)
 - **`c.style7()`**
 ![style7](https://github.com/liuhedong135/ttytables/blob/master/photo/style7.png)
 - **`c.style8()`**
