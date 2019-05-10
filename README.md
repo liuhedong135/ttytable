@@ -26,27 +26,32 @@ c.echo()
 
 ```
 ![use](https://github.com/liuhedong135/ttytables/blob/master/photo/use.png)
+
+<br>
+
+---
+
 <br>
 
 # 3. Themes
 
-- **`c.style()`**
+- **`c.style()`**<br>
 ![style](https://github.com/liuhedong135/ttytables/blob/master/photo/style.png)
-- **`c.style1()`**
+- **`c.style1()`**<br>
 ![style1](https://github.com/liuhedong135/ttytables/blob/master/photo/style1.png)
-- **`c.style2()`**
+- **`c.style2()`**<br>
 ![style2](https://github.com/liuhedong135/ttytables/blob/master/photo/style2.png)
-- **`c.style3()`**
+- **`c.style3()`**<br>
 ![style3](https://github.com/liuhedong135/ttytables/blob/master/photo/style3.png)
-- **`c.style4()`**
+- **`c.style4()`**<br>
 ![style4](https://github.com/liuhedong135/ttytables/blob/master/photo/style4.png)
-- **`c.style5()`**
+- **`c.style5()`**<br>
 ![style5](https://github.com/liuhedong135/ttytables/blob/master/photo/style5.png)
-- **`c.style6()`**
+- **`c.style6()`**<br>
 ![style6](https://github.com/liuhedong135/ttytables/blob/master/photo/style6.png)
-- **`c.style7()`**
+- **`c.style7()`**<br>
 ![style7](https://github.com/liuhedong135/ttytables/blob/master/photo/style7.png)
-- **`c.style8()`**
+- **`c.style8()`**<br>
 ![style8](https://github.com/liuhedong135/ttytables/blob/master/photo/style8.png)
 <br>
 
@@ -66,7 +71,7 @@ c.vertical = 'o'     # |
 c.across = 'x'       # -
 c.echo()
 ```
-It looks like this.
+It looks like this.<br>
 ![custom](https://github.com/liuhedong135/ttytables/blob/master/photo/custom.png)
 
 <br>
