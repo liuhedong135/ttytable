@@ -11,7 +11,7 @@ pip install ttytable
 
 <br>
 
-> Waring: Only the following is supported
+> Warning: Only the following is supported
 > - Xshell: Default theme
 > - MobaXterm: All 
 > - Vmware: All
